@@ -1,0 +1,554 @@
+[
+    {
+        "id": "e428a198-46db-476f-9552-d3a04f666e1d",
+        "name": "Altramuz",
+        "g": 50,
+        "ig": 15
+    },
+    {
+        "id": "d623abd8-ff89-4062-8907-6f13cb9a0a78",
+        "name": "Arroz blanco, crudo",
+        "g": 13,
+        "ig": null
+    },
+    {
+        "id": "77b8d381-678a-496c-8391-6de8ab42b9ab",
+        "name": "Arroz blanco, hervido",
+        "g": 38,
+        "ig": 70
+    },
+    {
+        "id": "c0f25917-a558-452b-ba4f-cc8459c6025b",
+        "name": "Arroz hinchado para desayuno",
+        "g": 12,
+        "ig": 85
+    },
+    {
+        "id": "c59a7397-717a-434f-a1d3-35ccaac94677",
+        "name": "Arroz integral, crudo",
+        "g": 13,
+        "ig": null
+    },
+    {
+        "id": "68ff3ee5-47bd-44b0-8a38-629157c38891",
+        "name": "Arroz integral, hervido",
+        "g": 40,
+        "ig": 50
+    },
+    {
+        "id": "491bae23-523c-4981-aa33-224dd0783c5b",
+        "name": "Arroz salvaje, crudo",
+        "g": 13,
+        "ig": null
+    },
+    {
+        "id": "d74bbb92-8ea7-490c-baea-db160ac24c53",
+        "name": "Arroz salvaje, hervido",
+        "g": 34,
+        "ig": 35
+    },
+    {
+        "id": "99fd4560-3532-4262-a7ef-a108828c9b7a",
+        "name": "Arroz, cocido",
+        "g": 38,
+        "ig": 70
+    },
+    {
+        "id": "89dd7732-4d27-48cf-b433-c23204f06c34",
+        "name": "Arroz, crudo",
+        "g": 13,
+        "ig": null
+    },
+    {
+        "id": "d10995e2-200e-43c0-9a77-3dad1bbd8408",
+        "name": "Avena en copos",
+        "g": 15,
+        "ig": 40
+    },
+    {
+        "id": "723c06a5-5072-4e09-a627-8535c42b4536",
+        "name": "Avena, crudo",
+        "g": 15,
+        "ig": null
+    },
+    {
+        "id": "5ce24389-d972-4056-898f-39a7f99bc47b",
+        "name": "Avena, hervido",
+        "g": 34,
+        "ig": 40
+    },
+    {
+        "id": "24b1e9a8-28b6-406f-ba32-1ef1e97c27ad",
+        "name": "Boniato",
+        "g": 50,
+        "ig": 50
+    },
+    {
+        "id": "3b4a3deb-8edb-4056-bce2-04126939d407",
+        "name": "Cebada, cocido",
+        "g": 42,
+        "ig": 45
+    },
+    {
+        "id": "2f165a18-adea-40f8-9d8f-f9bc164b5054",
+        "name": "Cebada, crudo",
+        "g": 14,
+        "ig": null
+    },
+    {
+        "id": "427f76e2-5658-49d5-80d8-6d002ab44253",
+        "name": "Centeno, cocido",
+        "g": 38,
+        "ig": 45
+    },
+    {
+        "id": "7ded782b-a016-4662-b4d0-d89c31c21c3f",
+        "name": "Centeno, crudo",
+        "g": 15,
+        "ig": 45
+    },
+    {
+        "id": "99073f7c-bd6e-4ff3-ac3d-33244ab8eb2b",
+        "name": "Cereales desayuno (trigo)",
+        "g": 15,
+        "ig": 77
+    },
+    {
+        "id": "40802875-48fb-4f1a-9b52-916417e24e21",
+        "name": "Cereales desayuno, ricos en fibra (>10%)",
+        "g": 20,
+        "ig": 50
+    },
+    {
+        "id": "e171fc9d-d5f6-40b5-a0ac-973ae7060e5b",
+        "name": "Cereales tipo muesli",
+        "g": 15,
+        "ig": 65
+    },
+    {
+        "id": "f080bf2d-722f-4a74-bb8e-ae81340999b0",
+        "name": "Cuscús, cocido",
+        "g": 45,
+        "ig": 65
+    },
+    {
+        "id": "efada462-1fc1-4a75-8e14-5036eac8b563",
+        "name": "Cuscús, crudo",
+        "g": 15,
+        "ig": null
+    },
+    {
+        "id": "8ed38d66-0699-4092-be02-419ee5809526",
+        "name": "Fideos de arroz, hervido",
+        "g": 50,
+        "ig": 50
+    },
+    {
+        "id": "d53e8a67-69f4-4434-b137-2ff10645d564",
+        "name": "Fideos de soja, hervido",
+        "g": 40,
+        "ig": null
+    },
+    {
+        "id": "faec8a5f-3b45-4cbc-984f-f9d94f313ca1",
+        "name": "Galleta sin azúcar",
+        "g": 18,
+        "ig": 50
+    },
+    {
+        "id": "921ea333-8ca6-49c5-9467-2d812cc0d8ae",
+        "name": "Galleta tipo Digestiva",
+        "g": 16,
+        "ig": 65
+    },
+    {
+        "id": "e04e2f0c-ed6c-49fe-aee3-ba9669a932ca",
+        "name": "Galleta tipo María",
+        "g": 15,
+        "ig": 70
+    },
+    {
+        "id": "f1bb2bbf-b018-41e0-9ee4-8148a7d69c0a",
+        "name": "Galleta tipo Príncipe",
+        "g": 14,
+        "ig": 70
+    },
+    {
+        "id": "d594484a-c672-403e-b266-d53aae69142d",
+        "name": "Garbanzo, crudo",
+        "g": 20,
+        "ig": null
+    },
+    {
+        "id": "cf50cfb2-0576-4cee-b849-4b6f6cb6445f",
+        "name": "Garbanzo, en conserva",
+        "g": 70,
+        "ig": 35
+    },
+    {
+        "id": "bde7aa59-cfe1-42b3-9b48-83bcaaa4a023",
+        "name": "Garbanzo, hervido",
+        "g": 55,
+        "ig": 35
+    },
+    {
+        "id": "29c93a8c-639f-4335-9616-4ca7aee3b1ab",
+        "name": "Gofio",
+        "g": 12,
+        "ig": null
+    },
+    {
+        "id": "fe6f3e38-eb6b-47a2-82e3-9d6ec9a2f057",
+        "name": "Guisantes congelados, frescos, de lata",
+        "g": 100,
+        "ig": 35
+    },
+    {
+        "id": "0ff3ed70-c730-43d5-beff-11fe7e7c496f",
+        "name": "Harina de avena",
+        "g": 18,
+        "ig": null
+    },
+    {
+        "id": "8e9fbb1b-2d27-4bf3-a37d-d096c7a27c57",
+        "name": "Harina de cebada o centeno",
+        "g": 17,
+        "ig": 45
+    },
+    {
+        "id": "081c3762-ea9c-47a7-a4c3-ea9cc7c3cbc1",
+        "name": "Harina de maíz",
+        "g": 15,
+        "ig": 70
+    },
+    {
+        "id": "eaf2654e-581f-4310-b9e1-3bdf38886f71",
+        "name": "Harina de soja",
+        "g": 70,
+        "ig": 25
+    },
+    {
+        "id": "95a3f8bc-fc1a-40c9-9186-77eac8ecbb87",
+        "name": "Harina de trigo",
+        "g": 15,
+        "ig": 78
+    },
+    {
+        "id": "fa627eb8-af08-4d3f-8d53-606d095c7b6a",
+        "name": "Hojaldre crudo",
+        "g": 30,
+        "ig": null
+    },
+    {
+        "id": "c83a857a-bbf7-4103-8428-554d65246f42",
+        "name": "Hojaldre horneado",
+        "g": 24,
+        "ig": null
+    },
+    {
+        "id": "ec8849a1-7f82-4da5-a121-9eeba2e81e24",
+        "name": "Hummus",
+        "g": 100,
+        "ig": null
+    },
+    {
+        "id": "57fa1e18-2214-404f-8d7c-5c55fc8780c4",
+        "name": "Judías blancas, crudo",
+        "g": 25,
+        "ig": null
+    },
+    {
+        "id": "cd57df4c-34a0-44ff-b7e0-29e145f98b2e",
+        "name": "Judías blancas, en conserva",
+        "g": 70,
+        "ig": 35
+    },
+    {
+        "id": "5fcb0148-4351-40d4-aa71-6df212aeb085",
+        "name": "Judías blancas, hervido",
+        "g": 55,
+        "ig": 35
+    },
+    {
+        "id": "c037093f-d9ce-43cc-b0c1-c865f751337e",
+        "name": "Legumbre, en conserva",
+        "g": 70,
+        "ig": null
+    },
+    {
+        "id": "ccb0ca86-7387-4a46-927a-dc05b8d5ee7f",
+        "name": "Lentejas, crudo",
+        "g": 20,
+        "ig": null
+    },
+    {
+        "id": "546462ca-f5a3-4739-96ec-efc5adaf96cc",
+        "name": "Lentejas, en conserva",
+        "g": 70,
+        "ig": 35
+    },
+    {
+        "id": "ad109eba-c197-4228-afd4-0be0b6b762e9",
+        "name": "Lentejas, hervido",
+        "g": 50,
+        "ig": 35
+    },
+    {
+        "id": "daee632b-0183-4065-af54-bca9b45cc1ee",
+        "name": "Maíz en lata",
+        "g": 50,
+        "ig": 65
+    },
+    {
+        "id": "bb35b5b8-4345-4961-a8f5-e1c1de033e07",
+        "name": "Maíz en lata sin azúcar añadido",
+        "g": 90,
+        "ig": null
+    },
+    {
+        "id": "9e6fb4ec-b19a-4b32-8771-6630fa8cfc11",
+        "name": "Maíz tostado (quicos)",
+        "g": 20,
+        "ig": null
+    },
+    {
+        "id": "78099a2a-3a36-4fa2-93e1-cbc87d83360b",
+        "name": "Mijo, cocido",
+        "g": 53,
+        "ig": 70
+    },
+    {
+        "id": "ad57bc02-60d9-4667-aad8-f033a37e8f48",
+        "name": "Mijo, crudo",
+        "g": 15,
+        "ig": null
+    },
+    {
+        "id": "8c534126-ccda-4513-9a6e-491a2c04af63",
+        "name": "Pan blanco (de trigo)",
+        "g": 20,
+        "ig": 70
+    },
+    {
+        "id": "6424589f-102c-4060-9bbb-705a879729da",
+        "name": "Pan de centeno",
+        "g": 20,
+        "ig": 65
+    },
+    {
+        "id": "4110d803-7c86-4d70-8a92-5a4972350057",
+        "name": "Pan de hamburguesa o Frankfurt",
+        "g": 18,
+        "ig": 85
+    },
+    {
+        "id": "248cac39-99ec-4ba9-ace0-086af3205321",
+        "name": "",
+        "g": "",
+        "ig": null
+    },
+    {
+        "id": "59a00aca-0736-4a01-b7cf-d9af15bdeca7",
+        "name": "Pan de molde",
+        "g": 20,
+        "ig": 85
+    },
+    {
+        "id": "e8796660-3796-4c5d-aeed-0a357def5196",
+        "name": "Pan de trigo de grano entero",
+        "g": 23,
+        "ig": 40
+    },
+    {
+        "id": "251f07a0-e317-47e7-b674-748493f305df",
+        "name": "Pan en bastoncitos",
+        "g": 15,
+        "ig": 70
+    },
+    {
+        "id": "cbd93ee7-7653-4ffb-b690-4ff9ae33e87b",
+        "name": "Pan rallado",
+        "g": 15,
+        "ig": 70
+    },
+    {
+        "id": "a712fc78-f853-4e3e-8765-e0540f714cf2",
+        "name": "Pan tostado o biscote",
+        "g": 15,
+        "ig": 70
+    },
+    {
+        "id": "913f410d-448a-43e8-8ab9-e5f8fb59a402",
+        "name": "Pasta al huevo, crudo",
+        "g": 16,
+        "ig": null
+    },
+    {
+        "id": "0bfcf6db-89b3-4442-9844-9ffda280b7b3",
+        "name": "Pasta alimenticia integral, crudo",
+        "g": 15,
+        "ig": null
+    },
+    {
+        "id": "1f928da2-a24d-4495-81be-c3af9f45a7cb",
+        "name": "Pasta alimenticia integral, hervido",
+        "g": 45,
+        "ig": 45
+    },
+    {
+        "id": "cce16e9f-f453-4c1d-9077-e86463d9c42a",
+        "name": "Pasta alimenticia, crudo",
+        "g": 14,
+        "ig": null
+    },
+    {
+        "id": "fe9a8c00-8a0f-4e78-94a3-b69c8f6932b3",
+        "name": "Pasta alimenticia, hervido",
+        "g": 45,
+        "ig": 50
+    },
+    {
+        "id": "a68220a5-be1f-4375-9d36-607dfe9ac10a",
+        "name": "Pasta fresca rellena",
+        "g": 30,
+        "ig": null
+    },
+    {
+        "id": "a76e85fd-0a4d-4669-b47a-78b734412215",
+        "name": "Pasta sin glúten",
+        "g": 13,
+        "ig": 73
+    },
+    {
+        "id": "d000941e-b96f-4f89-8440-bee742323166",
+        "name": "Patata, al horno o asada",
+        "g": 35,
+        "ig": 62
+    },
+    {
+        "id": "407822ba-fbc5-4b1e-b77c-a05bca163b4b",
+        "name": "Patata, crudo",
+        "g": 65,
+        "ig": null
+    },
+    {
+        "id": "0f3b6a94-b86e-48cb-a2a4-73dbb2ac4157",
+        "name": "Patata, hervida",
+        "g": 65,
+        "ig": 65
+    },
+    {
+        "id": "8f7d8eb0-c044-4136-bd9d-66ab5d573b07",
+        "name": "Patatas chips",
+        "g": 20,
+        "ig": 95
+    },
+    {
+        "id": "2251f8ae-5942-40cb-968d-341ec5f1f2fa",
+        "name": "Patatas fritas",
+        "g": 30,
+        "ig": 70
+    },
+    {
+        "id": "54fee1d0-e026-4f35-bd2e-0ffc60a5d7bb",
+        "name": "Puré de patatas, elaborado con leche",
+        "g": 80,
+        "ig": 90
+    },
+    {
+        "id": "15280904-c14c-47bb-b284-f2adaf91e6af",
+        "name": "Puré de patatas, en copos",
+        "g": 15,
+        "ig": 90
+    },
+    {
+        "id": "c7a3021f-7664-4a90-8905-42d4de098693",
+        "name": "Quinoa, crudo",
+        "g": 19,
+        "ig": null
+    },
+    {
+        "id": "5868a78d-72fd-4029-bd5d-011a3de20efd",
+        "name": "Quinoa, hervido",
+        "g": 48,
+        "ig": 35
+    },
+    {
+        "id": "e64f2958-3af9-4998-9de4-ab03adc4538e",
+        "name": "Sémola de trigo, crudo",
+        "g": 14,
+        "ig": null
+    },
+    {
+        "id": "f9eabb50-3a16-4b67-b5ed-30f2a8fd36cf",
+        "name": "Sémola de trigo, hervido",
+        "g": 90,
+        "ig": 67
+    },
+    {
+        "id": "7d2f28ab-f84f-427d-926b-071bb45510d3",
+        "name": "Soja seca, crudo",
+        "g": 30,
+        "ig": null
+    },
+    {
+        "id": "83ee5bdc-7ce7-4abd-b4dc-128cd88dffcf",
+        "name": "Soja seca, hervido",
+        "g": 100,
+        "ig": 15
+    },
+    {
+        "id": "b443f9d1-fde3-4cab-9ffe-bb8f582d9cbc",
+        "name": "Sushi",
+        "g": 45,
+        "ig": 42
+    },
+    {
+        "id": "17c8315d-73e0-4365-a48b-9db8ed20440a",
+        "name": "Tapioca, cocido",
+        "g": 33,
+        "ig": 84
+    },
+    {
+        "id": "2a34aa5a-11c1-416b-b8c7-c7224e271b7b",
+        "name": "Tapioca, crudo",
+        "g": 12,
+        "ig": null
+    },
+    {
+        "id": "58c3009d-31f8-47fc-a6b6-ee0f4e1cca3c",
+        "name": "Trigo sarraceno, crudo",
+        "g": 14,
+        "ig": null
+    },
+    {
+        "id": "b7ead1b8-164c-4cad-acb0-4e4ee5ea61bc",
+        "name": "Trigo sarraceno, hervido",
+        "g": 42,
+        "ig": 40
+    },
+    {
+        "id": "46518dc8-fcf3-4d67-b5bc-135a5cf8232c",
+        "name": "Trigo tierno, crudo",
+        "g": 16,
+        "ig": null
+    },
+    {
+        "id": "b6110d9c-f05c-470d-aee8-b9e5edb8afc6",
+        "name": "Trigo tierno, hervido",
+        "g": 39,
+        "ig": 54
+    },
+    {
+        "id": "862122f2-cdb6-4583-b2f7-073e340b9713",
+        "name": "Yuca, cocido",
+        "g": 33,
+        "ig": 55
+    },
+    {
+        "id": "7bcd8ef0-4d9f-4ff5-85f5-340e01523252",
+        "name": "Yuca, crudo",
+        "g": 25,
+        "ig": null
+    }
+]

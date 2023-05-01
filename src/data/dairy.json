@@ -1,0 +1,140 @@
+[
+    {
+        "id": "3077f1d8-7e61-4b3c-8757-10ae2ad76634",
+        "name": "Cuajada",
+        "g": 175,
+        "ig": 35
+    },
+    {
+        "id": "dc00935f-e656-4766-b032-0d2222634895",
+        "name": "Flan",
+        "g": 45,
+        "ig": null
+    },
+    {
+        "id": "44987b29-a903-476c-9050-8e6e9f7be2ca",
+        "name": "Flan 0%",
+        "g": 70,
+        "ig": null
+    },
+    {
+        "id": "6b4be8b2-0bb7-4638-8699-22cd67232aef",
+        "name": "Helado sin azúcares añadidos",
+        "g": 100,
+        "ig": 35
+    },
+    {
+        "id": "3a6f26ac-d9c8-481f-9e6c-f50a2b8008c1",
+        "name": "Helado de crema",
+        "g": 50,
+        "ig": 60
+    },
+    {
+        "id": "13b59938-a034-48d0-8d86-7eac94e3502f",
+        "name": "Helado de hielo",
+        "g": 50,
+        "ig": 65
+    },
+    {
+        "id": "55358ee6-f65c-499c-9ee6-eb21271da7f1",
+        "name": "Kéfir",
+        "g": 200,
+        "ig": 35
+    },
+    {
+        "id": "6aee497e-7e81-48dd-b766-0c100cf6d21d",
+        "name": "Leche condensada",
+        "g": 20,
+        "ig": 61
+    },
+    {
+        "id": "2650922e-94e3-477a-b178-0b3495c0b38b",
+        "name": "Leche desnatada",
+        "g": 200,
+        "ig": 32
+    },
+    {
+        "id": "1c4a2a0e-5433-4987-b710-63be4ee071bb",
+        "name": "Leche en polvo",
+        "g": 25,
+        "ig": 30
+    },
+    {
+        "id": "ff101272-bdc7-4f1e-9f6f-d171c2c3f669",
+        "name": "Leche entera",
+        "g": 200,
+        "ig": 27
+    },
+    {
+        "id": "bb82a94e-4e5e-43d3-bf18-8f8447692cec",
+        "name": "Leche semidesnatada",
+        "g": 200,
+        "ig": 30
+    },
+    {
+        "id": "74cdf24a-6331-45de-8848-583c7f5b2784",
+        "name": "Leche sin lactosa",
+        "g": 200,
+        "ig": null
+    },
+    {
+        "id": "e7f574f5-3e0c-4dbd-8f39-3821d30d6696",
+        "name": "Nata líquida",
+        "g": 300,
+        "ig": null
+    },
+    {
+        "id": "61a1c1a6-f05d-48c1-b5ad-9fc8a789fea0",
+        "name": "Natillas",
+        "g": 50,
+        "ig": null
+    },
+    {
+        "id": "37cf1600-e37f-4c76-acf3-7ab286c5f5f0",
+        "name": "Queso fresco",
+        "g": 250,
+        "ig": 35
+    },
+    {
+        "id": "e10f3dde-7ded-4230-93a4-64a25fbaaefc",
+        "name": "Queso tipo Petit suisse",
+        "g": 75,
+        "ig": 40
+    },
+    {
+        "id": "3710d9b5-bc26-4cdf-9f8e-1798f255884a",
+        "name": "Yogur desnatado, de sabores o fruta",
+        "g": 150,
+        "ig": 35
+    },
+    {
+        "id": "e479a895-bbab-4f54-bea9-87bc5dc4e667",
+        "name": "Yogur entero, de sabores o fruta",
+        "g": 70,
+        "ig": 35
+    },
+    {
+        "id": "be9ea316-819b-4208-9b75-6b535be73675",
+        "name": "Yogur líquido",
+        "g": 70,
+        "ig": 40
+    },
+    {
+        "id": "92119abc-9213-4db8-bbf4-6be1d5005e2a",
+        "name": "Yogur natural entero o desnatado",
+        "g": 200,
+        "ig": 35
+    },
+    {
+        "id": "4914b13e-f328-429a-b8f6-de70849629af",
+        "name": "Yogur tipo Actimel",
+        "g": 100,
+        "ig": 35
+    },
+    {
+        "id": "318bb567-7b8e-4370-8860-e8d46b1ba05e",
+        "name": "Yogur tipo Actimel 0%",
+        "g": 200,
+        "ig": 35
+    }
+]

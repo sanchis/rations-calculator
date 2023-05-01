@@ -1,0 +1,380 @@
+[
+    {
+        "id": "e9451aae-e4e8-4be9-be99-abc84aac5172",
+        "name": "Arepa",
+        "g": 25,
+        "ig": 72
+    },
+    {
+        "id": "8536d2db-8c5a-4533-afe0-63fa969a6c10",
+        "name": "Azúcar blanco",
+        "g": 10,
+        "ig": 70
+    },
+    {
+        "id": "c879e4e9-c664-428d-8532-ec0e8c284b3f",
+        "name": "Azúcar moreno",
+        "g": 10,
+        "ig": 70
+    },
+    {
+        "id": "f7b08f8f-9b3f-42b9-8a69-70bafc023448",
+        "name": "Barrita energética (de cereales)",
+        "g": 20,
+        "ig": 70
+    },
+    {
+        "id": "073f7c3b-b229-4208-8d42-3618bd3ca5ee",
+        "name": "Bizcocho o melindro",
+        "g": 20,
+        "ig": 65
+    },
+    {
+        "id": "8a7a913c-0a23-41d9-b9c3-5ebe864f6cac",
+        "name": "Bollería en general",
+        "g": 20,
+        "ig": 70
+    },
+    {
+        "id": "001c3986-df31-4754-9262-13b4d819888d",
+        "name": "Cacao en polvo",
+        "g": 12,
+        "ig": null
+    },
+    {
+        "id": "497eb42a-8be2-4dee-84a3-da52d88c320f",
+        "name": "Cacao en polvo sin azúcar",
+        "g": 22,
+        "ig": null
+    },
+    {
+        "id": "acd43810-0faf-402c-99a8-538f0323f477",
+        "name": "Calamares a la romana",
+        "g": 120,
+        "ig": null
+    },
+    {
+        "id": "f81ee675-3f54-40a2-85d1-423b1ec0b3f9",
+        "name": "Canelones con bechamel",
+        "g": 100,
+        "ig": null
+    },
+    {
+        "id": "655e9bd4-dc03-41a7-bd97-3fa10d702a50",
+        "name": "Caramelo",
+        "g": 12,
+        "ig": 70
+    },
+    {
+        "id": "31e453a0-4b44-434c-afac-8bd0e8bb4fa5",
+        "name": "Carne rebozada",
+        "g": 150,
+        "ig": null
+    },
+    {
+        "id": "1273e4c7-f2fd-49a9-b439-f2014c062a68",
+        "name": "Chocolate >90% cacao",
+        "g": 75,
+        "ig": null
+    },
+    {
+        "id": "360d691e-2e2e-4ec3-b15f-cbd79ec84767",
+        "name": "Chocolate blanco o con leche",
+        "g": 17,
+        "ig": 70
+    },
+    {
+        "id": "549a8314-38d5-4949-a398-00a6a0cb3f11",
+        "name": "Chocolate negro",
+        "g": 25,
+        "ig": 20
+    },
+    {
+        "id": "e42c4fe0-dba2-4154-b0da-8d56669e4aea",
+        "name": "Churros",
+        "g": 25,
+        "ig": null
+    },
+    {
+        "id": "5fb2c339-1244-4576-a6ba-900b0b97996c",
+        "name": "Crema de cacahuete",
+        "g": 100,
+        "ig": 40
+    },
+    {
+        "id": "4f5b928c-73a0-4304-b228-5dfa94bcfbd9",
+        "name": "Crema de cacao",
+        "g": 25,
+        "ig": 55
+    },
+    {
+        "id": "2786c957-cd1d-4eed-86a2-3ab8c456a988",
+        "name": "Crema pastelera",
+        "g": 40,
+        "ig": null
+    },
+    {
+        "id": "b9c4ce0e-52f9-4b28-b0fa-65a7f42091cd",
+        "name": "Crepe",
+        "g": 40,
+        "ig": null
+    },
+    {
+        "id": "c461649a-ccbc-4939-8316-5215cc0ead6d",
+        "name": "Croquetas",
+        "g": 50,
+        "ig": null
+    },
+    {
+        "id": "c576e7f8-fea1-4711-952b-ec8e75fd424f",
+        "name": "Cruasán",
+        "g": 20,
+        "ig": 70
+    },
+    {
+        "id": "bd7c8340-6689-4341-8cda-c736bea92834",
+        "name": "Döner kebab",
+        "g": 60,
+        "ig": null
+    },
+    {
+        "id": "b620ef28-2d5f-4493-bf91-dfba7ec248fa",
+        "name": "Donut",
+        "g": 23,
+        "ig": 75
+    },
+    {
+        "id": "64f1355e-b7ea-4d4c-a666-7e3d0ddf8be7",
+        "name": "Durum",
+        "g": 100,
+        "ig": null
+    },
+    {
+        "id": "100d7e96-a9b7-4721-8347-b762f75a004c",
+        "name": "Empanadilla de carne",
+        "g": 50,
+        "ig": null
+    },
+    {
+        "id": "6e759cca-3f23-4fe1-a78e-2abee547d889",
+        "name": "Ensaimada",
+        "g": 23,
+        "ig": 70
+    },
+    {
+        "id": "8a9c506d-a73d-4478-bfed-865907d115be",
+        "name": "Ensaladilla rusa",
+        "g": 100,
+        "ig": null
+    },
+    {
+        "id": "0e7ae751-64d0-463e-be58-e252f036c37f",
+        "name": "Fajita, tortilla mejicana",
+        "g": 20,
+        "ig": null
+    },
+    {
+        "id": "b103ac57-fcee-48a7-8717-3e018b4e968b",
+        "name": "Fructosa (edulcorante)",
+        "g": 10,
+        "ig": 20
+    },
+    {
+        "id": "88b109f2-40e4-4725-99ab-60d4b6cdeb9b",
+        "name": "Gazpacho comercial",
+        "g": 150,
+        "ig": null
+    },
+    {
+        "id": "7a66b57c-5a4e-4254-8def-52821072b2eb",
+        "name": "Gelatina 0%",
+        "g": 500,
+        "ig": null
+    },
+    {
+        "id": "765ae505-c819-4592-a6cd-64a44f227f20",
+        "name": "Gelatina comercial",
+        "g": 62,
+        "ig": null
+    },
+    {
+        "id": "1d4985d7-710c-4d71-8a74-4b4933fdc157",
+        "name": "Glucosa (líquida o en pastillas)",
+        "g": 10,
+        "ig": 100
+    },
+    {
+        "id": "1c895fea-83c7-498b-88fc-1f3fbabf231b",
+        "name": "Golosinas",
+        "g": 18,
+        "ig": 70
+    },
+    {
+        "id": "59967ecd-e42a-4d74-bfa4-f0f14a039309",
+        "name": "Ketchup",
+        "g": 50,
+        "ig": 55
+    },
+    {
+        "id": "153aa60f-41b5-483d-a021-e549451eb98e",
+        "name": "Lasaña",
+        "g": 100,
+        "ig": 53
+    },
+    {
+        "id": "27540c0f-7bbf-4b41-8500-c4042550d3c6",
+        "name": "Levadura",
+        "g": 130,
+        "ig": null
+    },
+    {
+        "id": "a239ea0f-d8e8-41e1-ad81-5c64104227d7",
+        "name": "Magdalena",
+        "g": 25,
+        "ig": 70
+    },
+    {
+        "id": "09c50919-ceb5-4e74-8473-247a23d94147",
+        "name": "Mazapán",
+        "g": 25,
+        "ig": null
+    },
+    {
+        "id": "a50fde85-1464-4897-ac5c-3af7e5cb16e3",
+        "name": "Merengue",
+        "g": 11,
+        "ig": null
+    },
+    {
+        "id": "88c33993-c1eb-4d80-afc1-cc32b1a08e88",
+        "name": "Mermelada",
+        "g": 20,
+        "ig": 65
+    },
+    {
+        "id": "7f72b897-31cb-4802-ad5c-d8deac8e2002",
+        "name": "Mermelada light",
+        "g": 100,
+        "ig": 30
+    },
+    {
+        "id": "0f597d4e-b72e-470a-ac8c-07e1b506c921",
+        "name": "Miel",
+        "g": 13,
+        "ig": 85
+    },
+    {
+        "id": "99e36aad-bf21-4d1a-968a-cdf8650e0ff7",
+        "name": "Palomitas",
+        "g": 20,
+        "ig": 85
+    },
+    {
+        "id": "bc478bd4-71fe-4f6c-ba1d-eb57cc5c882f",
+        "name": "Pastel de chocolate",
+        "g": 25,
+        "ig": null
+    },
+    {
+        "id": "45d57c7d-8674-4bb1-884b-5a463563eb63",
+        "name": "Pastel de crema",
+        "g": 35,
+        "ig": null
+    },
+    {
+        "id": "01346b84-9a55-4a25-91ab-848cb4a72138",
+        "name": "Pizza",
+        "g": 40,
+        "ig": 45
+    },
+    {
+        "id": "e5aa7d25-2f91-403f-9617-570c9a04aeba",
+        "name": "Regaliz",
+        "g": 15,
+        "ig": null
+    },
+    {
+        "id": "af0ea71c-34d4-432e-9020-c3b11a756dcb",
+        "name": "Rollito de primavera",
+        "g": 50,
+        "ig": null
+    },
+    {
+        "id": "4cc3be89-f896-4d63-9941-2f298d9be410",
+        "name": "Salsa barbacoa",
+        "g": 100,
+        "ig": null
+    },
+    {
+        "id": "3fdfcb94-9d1a-4547-9d3d-9e85d914c15e",
+        "name": "Salsa bechamel",
+        "g": 100,
+        "ig": null
+    },
+    {
+        "id": "9642a67a-ab90-42fb-8e0b-082c9fea602c",
+        "name": "Salsa boloñesa",
+        "g": 150,
+        "ig": null
+    },
+    {
+        "id": "a918a9b0-3091-45a8-8d60-0197ddf9a7d7",
+        "name": "Salsa de tomate comercial",
+        "g": 100,
+        "ig": null
+    },
+    {
+        "id": "5ac512f2-adeb-43f6-a00b-fe69a39f78af",
+        "name": "Seitán",
+        "g": 300,
+        "ig": null
+    },
+    {
+        "id": "03153388-c29b-4ed4-bc4c-648dcb9ac113",
+        "name": "Surimi (palitos de cangrejo)",
+        "g": 100,
+        "ig": null
+    },
+    {
+        "id": "caf4900a-2ca4-4f54-8ddd-cbe67c9cd699",
+        "name": "Tarta de manzana",
+        "g": 25,
+        "ig": null
+    },
+    {
+        "id": "12b0f549-37c1-4805-b281-5858705cd790",
+        "name": "Tofú",
+        "g": 300,
+        "ig": null
+    },
+    {
+        "id": "8869c212-19ae-4c4c-9cad-bc9dc1fee333",
+        "name": "Tortilla de patatas",
+        "g": 120,
+        "ig": null
+    },
+    {
+        "id": "1bc34df8-2fb3-47fe-b73d-7bb155e5f97b",
+        "name": "Turrón tipo Alicante",
+        "g": 25,
+        "ig": null
+    },
+    {
+        "id": "1b9959cc-954a-44cc-9f40-d8e49a2779c9",
+        "name": "Turrón tipo chocolate",
+        "g": 20,
+        "ig": null
+    },
+    {
+        "id": "b2e8864f-b7aa-4cb9-b905-7a6d8c809ef2",
+        "name": "Turrón tipo Jijona",
+        "g": 25,
+        "ig": null
+    },
+    {
+        "id": "f1bc2c49-567b-4dc7-87d8-0be081f8ea91",
+        "name": "Vinagre tipo Módena (caramelizado)",
+        "g": 15,
+        "ig": null
+    }
+]

@@ -1,0 +1,164 @@
+[
+    {
+        "id": "908e7fcc-8a4f-4110-8615-a6ec93aed200",
+        "name": "Agua de coco",
+        "g": 200,
+        "ig": null
+    },
+    {
+        "id": "902355c0-26f4-4d24-8a02-bba588082a8b",
+        "name": "Bebida de almendra",
+        "g": 200,
+        "ig": 35
+    },
+    {
+        "id": "4ccfe5fd-bac0-4d7a-8c63-61707d5fb69d",
+        "name": "Bebida de arroz",
+        "g": 200,
+        "ig": 85
+    },
+    {
+        "id": "7218f51c-9f2c-4082-8a6d-d66dce5f1b06",
+        "name": "Bebida de avena",
+        "g": 200,
+        "ig": 35
+    },
+    {
+        "id": "877c4bcb-6c81-4c93-909c-139a773892bf",
+        "name": "Bebida de cacao",
+        "g": 100,
+        "ig": 34
+    },
+    {
+        "id": "e14b3fab-6bcd-4c9e-b61a-a5ae1f485849",
+        "name": "Bebida de soja",
+        "g": 250,
+        "ig": 30
+    },
+    {
+        "id": "d0a65409-ecc1-4455-8d86-e470ea1a4fd6",
+        "name": "Bebida energética",
+        "g": 80,
+        "ig": 70
+    },
+    {
+        "id": "74144e0e-d51d-4242-b855-a2d2b715e6f2",
+        "name": "Bebida isotónica",
+        "g": 130,
+        "ig": 78
+    },
+    {
+        "id": "c24f9132-806a-488c-825e-3ab140e6467f",
+        "name": "Bebida refrescante de sabores (4,5% de hidratos de carbono)",
+        "g": 200,
+        "ig": 70
+    },
+    {
+        "id": "52f02d0d-5b57-4dd9-8666-c747c96524b8",
+        "name": "Bebida refrescante tipo cola (10% de hidratos de carbono)",
+        "g": 100,
+        "ig": 70
+    },
+    {
+        "id": "cc841757-a12b-44c2-bbf6-92c8a34934f6",
+        "name": "Bitter",
+        "g": 100,
+        "ig": 70
+    },
+    {
+        "id": "9382229f-012b-4aab-9563-30a83adb443c",
+        "name": "Cava seco o semiseco",
+        "g": 250,
+        "ig": null
+    },
+    {
+        "id": "98bb3f64-e750-4d4e-9d99-55fd565b6c84",
+        "name": "Cerveza",
+        "g": 250,
+        "ig": 110
+    },
+    {
+        "id": "80a8e1af-3dfc-4e3c-930b-0bed7f4887b0",
+        "name": "Cerveza light",
+        "g": 300,
+        "ig": null
+    },
+    {
+        "id": "1948524d-a82f-4641-a6bd-8fe3bd76bf30",
+        "name": "Cerveza sin alcohol",
+        "g": 250,
+        "ig": 110
+    },
+    {
+        "id": "f97ffd34-2c5f-46a4-bfeb-8905d5b4f75f",
+        "name": "Horchata",
+        "g": 75,
+        "ig": null
+    },
+    {
+        "id": "181f5cb2-d70f-4292-88fd-17b075290419",
+        "name": "Horchata light",
+        "g": 300,
+        "ig": null
+    },
+    {
+        "id": "d5d1993d-7e89-4b57-884b-d9d76ba3b103",
+        "name": "Licor de melocotón o manzana",
+        "g": 30,
+        "ig": null
+    },
+    {
+        "id": "ab41b0f6-aec0-4780-85fa-6344997b449b",
+        "name": "Mosto",
+        "g": 70,
+        "ig": null
+    },
+    {
+        "id": "f7ba0367-0144-4ccf-afae-f78c086fc55d",
+        "name": "Sangría",
+        "g": 100,
+        "ig": null
+    },
+    {
+        "id": "a606c39b-7261-4cf5-a3bf-3c18806505af",
+        "name": "Sidra",
+        "g": 200,
+        "ig": null
+    },
+    {
+        "id": "cc23a1ba-e3e5-40c4-9316-e5389d3e92c0",
+        "name": "Tónica",
+        "g": 100,
+        "ig": 70
+    },
+    {
+        "id": "31176614-5f96-4424-8e70-8806d43204e7",
+        "name": "Vermut",
+        "g": 75,
+        "ig": null
+    },
+    {
+        "id": "ed9ec76f-4d1f-465c-a705-858675b8b775",
+        "name": "Vino dulce",
+        "g": 75,
+        "ig": null
+    },
+    {
+        "id": "6d07a1aa-4d5f-4a7c-ab3b-7c8053e81a5f",
+        "name": "Zumo de fruta",
+        "g": 100,
+        "ig": 60
+    },
+    {
+        "id": "d86374bb-2827-4229-b1aa-cac0492d003e",
+        "name": "Zumo de fruta \"sin azúcar añadido",
+        "g": 250,
+        "ig": 45
+    },
+    {
+        "id": "9d67b835-5b4b-46de-8b7d-10ce9d962f78",
+        "name": "Zumo de tomate",
+        "g": 200,
+        "ig": 35
+    }
+]

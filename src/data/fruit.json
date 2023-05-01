@@ -1,0 +1,254 @@
+[
+    {
+        "id": "79b1e3f3-6d24-4f67-ae95-04f46b071992",
+        "name": "Aguacate",
+        "g": 160,
+        "ig": 10
+    },
+    {
+        "id": "492f698d-0d2a-4cfd-9dd9-5f3a2771299e",
+        "name": "Albaricoque",
+        "g": 150,
+        "ig": 30
+    },
+    {
+        "id": "d2371f26-869c-47d5-9db2-08906f55d911",
+        "name": "Arándano",
+        "g": 100,
+        "ig": 25
+    },
+    {
+        "id": "93759fa8-4d61-4c53-b326-2d428fbfc69c",
+        "name": "Caqui (persimon)",
+        "g": 65,
+        "ig": null
+    },
+    {
+        "id": "3b18de72-571c-4995-92a3-bcdaf2fe20b7",
+        "name": "Castaña cruda",
+        "g": 30,
+        "ig": 65
+    },
+    {
+        "id": "68c38801-e708-4fa7-a480-7e44de9d9735",
+        "name": "Castaña tostada",
+        "g": 25,
+        "ig": 65
+    },
+    {
+        "id": "20caf5d2-ac75-495f-9825-b6c494fdef8b",
+        "name": "Cereza",
+        "g": 100,
+        "ig": 25
+    },
+    {
+        "id": "9ac2a4c8-d484-495a-9eb0-955e287a1f62",
+        "name": "Chirimoya",
+        "g": 50,
+        "ig": 35
+    },
+    {
+        "id": "f79928d2-6cd1-4f14-b0c9-c79ea7a2f390",
+        "name": "Ciruela",
+        "g": 100,
+        "ig": 35
+    },
+    {
+        "id": "94394f62-5d90-413e-b66c-97a2af6f73d9",
+        "name": "Coco fresco",
+        "g": 200,
+        "ig": 45
+    },
+    {
+        "id": "68adb444-0b57-417a-8430-4f7ec38d91f1",
+        "name": "Coco seco",
+        "g": 150,
+        "ig": 45
+    },
+    {
+        "id": "559c0abe-6348-4349-b6c9-62b3bd4a2fd7",
+        "name": "Dátil",
+        "g": 15,
+        "ig": 70
+    },
+    {
+        "id": "d63daa90-03ab-4164-ac05-18b5355ce744",
+        "name": "Frambuesa",
+        "g": 150,
+        "ig": 25
+    },
+    {
+        "id": "b78e2db6-7eed-43b5-b5d8-7988e703dbb1",
+        "name": "Fresones",
+        "g": 200,
+        "ig": 25
+    },
+    {
+        "id": "1547c75e-f446-4ec0-8de4-8e937f27e60a",
+        "name": "Granada",
+        "g": 70,
+        "ig": 35
+    },
+    {
+        "id": "34b852a7-037a-43f8-8a4e-218909f025fc",
+        "name": "Grosella",
+        "g": 200,
+        "ig": 25
+    },
+    {
+        "id": "357aa9ed-e62a-448b-bff4-ef8c96a67fa4",
+        "name": "Grosella negra",
+        "g": 140,
+        "ig": 15
+    },
+    {
+        "id": "f662f986-f28e-405e-aaa0-a24fa0250839",
+        "name": "Higos",
+        "g": 100,
+        "ig": 35
+    },
+    {
+        "id": "909a3d0c-cdbe-4b9e-b89d-6c5062f77574",
+        "name": "Kiwi",
+        "g": 100,
+        "ig": 50
+    },
+    {
+        "id": "38e47e78-cd97-47ea-aecb-3bf1589342bf",
+        "name": "Litchi",
+        "g": 70,
+        "ig": 50
+    },
+    {
+        "id": "389135a4-a156-4921-90b7-26947d588466",
+        "name": "Mandarina",
+        "g": 100,
+        "ig": 30
+    },
+    {
+        "id": "6ec4294f-d731-4a70-a81f-c68e7ac4254a",
+        "name": "Mango",
+        "g": 100,
+        "ig": 50
+    },
+    {
+        "id": "d6e96ee0-0b3a-4a73-94c4-9e62fcb979d4",
+        "name": "Manzana",
+        "g": 100,
+        "ig": 35
+    },
+    {
+        "id": "05380309-b96e-4ea7-9c01-700d4ed8e43b",
+        "name": "Manzana asada",
+        "g": 50,
+        "ig": 35
+    },
+    {
+        "id": "ea63fe7c-2a00-456a-87e3-79d787d0e05d",
+        "name": "Melocotón",
+        "g": 100,
+        "ig": 35
+    },
+    {
+        "id": "ac7f3fe6-aa6d-4f9b-afed-553282700225",
+        "name": "Melocotón en conserva",
+        "g": 50,
+        "ig": 35
+    },
+    {
+        "id": "8a4d4795-9824-41f6-b13c-b429d080dbe4",
+        "name": "Melón",
+        "g": 200,
+        "ig": 60
+    },
+    {
+        "id": "163068ba-5782-434e-a8a9-195db29a5e7c",
+        "name": "Membrillo",
+        "g": 150,
+        "ig": 35
+    },
+    {
+        "id": "5e504b76-9c6f-4721-a431-330317cbd718",
+        "name": "Membrillo, dulce de",
+        "g": 20,
+        "ig": 65
+    },
+    {
+        "id": "e79e9d68-efa5-41e5-b6a9-7362175f503e",
+        "name": "Moras",
+        "g": 150,
+        "ig": 25
+    },
+    {
+        "id": "26d274ce-0ae1-48cf-8bd2-363c88cab22c",
+        "name": "Naranja",
+        "g": 100,
+        "ig": 35
+    },
+    {
+        "id": "0cf4dd85-f97f-403e-ad0b-188ad4fa3893",
+        "name": "Nectarina",
+        "g": 100,
+        "ig": 35
+    },
+    {
+        "id": "b709c523-5eb7-42d4-be62-a81dc87b7c25",
+        "name": "Níspero",
+        "g": 100,
+        "ig": 55
+    },
+    {
+        "id": "45037f00-0e4b-43b1-a418-14533a08e0ec",
+        "name": "Papaya",
+        "g": 125,
+        "ig": 55
+    },
+    {
+        "id": "73ecd4b3-c7f3-443c-9f36-156f9b70e587",
+        "name": "Paraguayo",
+        "g": 100,
+        "ig": 35
+    },
+    {
+        "id": "bb31fd2a-2e22-466e-bccf-d6067dddade2",
+        "name": "Pera",
+        "g": 100,
+        "ig": 30
+    },
+    {
+        "id": "6d324bb6-6bc6-49a6-93ee-85c56b23d2c3",
+        "name": "Piña",
+        "g": 100,
+        "ig": 45
+    },
+    {
+        "id": "ca7c509c-32f7-40d5-bf24-b30a3d63a7d8",
+        "name": "Piña en conserva",
+        "g": 85,
+        "ig": 53
+    },
+    {
+        "id": "89adafc6-2acf-4136-9d78-b8a92dbc9a69",
+        "name": "Piña en su jugo",
+        "g": 60,
+        "ig": 50
+    },
+    {
+        "id": "7f5e982c-c894-4dc4-94b1-c0379b74d6f8",
+        "name": "Plátano",
+        "g": 50,
+        "ig": 50
+    },
+    {
+        "id": "708cfb77-399c-4bed-8c36-bf777ef6ec86",
+        "name": "Sandía",
+        "g": 200,
+        "ig": 75
+    },
+    {
+        "id": "83590c69-a416-49a2-8f62-55f69bfc78dd",
+        "name": "Uva",
+        "g": 50,
+        "ig": 45
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "id": "89772f48-778c-46a6-a75a-ac9c05644de5",
+        "name": "Aceituna",
+        "g": 250,
+        "ig": 15
+    },
+    {
+        "id": "dbf19dfc-a702-43b4-824f-50cbb5918174",
+        "name": "Albaricoque seco",
+        "g": 15,
+        "ig": 35
+    },
+    {
+        "id": "63345f5f-0ec4-4bd5-a213-71ce9f7de468",
+        "name": "Almendra",
+        "g": 150,
+        "ig": 15
+    },
+    {
+        "id": "8106a43e-f4aa-4ad6-b6c6-245f773bd41f",
+        "name": "Almendra tostada",
+        "g": 140,
+        "ig": 15
+    },
+    {
+        "id": "55f74e42-6147-46f9-a25e-9fd6e45bf818",
+        "name": "Avellana",
+        "g": 150,
+        "ig": 15
+    },
+    {
+        "id": "d2623bd2-87d8-427b-a056-6b7a2dcdba90",
+        "name": "Cacahuete",
+        "g": 100,
+        "ig": 15
+    },
+    {
+        "id": "7cdc8345-252d-43c4-97ce-2e01632c7805",
+        "name": "Ciruela pasa",
+        "g": 15,
+        "ig": 40
+    },
+    {
+        "id": "d22bccc9-cc58-4046-b42b-cdfce90f978b",
+        "name": "Dátil seco",
+        "g": 15,
+        "ig": 70
+    },
+    {
+        "id": "d2cfbe82-c65b-49e4-b6f3-ec7bab2723e8",
+        "name": "Higo seco",
+        "g": 15,
+        "ig": 40
+    },
+    {
+        "id": "b2bd942d-f36a-4c2e-9d43-eecb3a9538b0",
+        "name": "Nuez",
+        "g": 300,
+        "ig": 15
+    },
+    {
+        "id": "56a971c4-4bae-48b5-9ca3-2601c8cdd3ca",
+        "name": "Piñón",
+        "g": 300,
+        "ig": 15
+    },
+    {
+        "id": "fec10c05-fc29-4d0b-9e8d-26e6fb8b21bf",
+        "name": "Pipas",
+        "g": 80,
+        "ig": 35
+    },
+    {
+        "id": "0db94ee4-b7f4-4856-a0ce-c7695027c595",
+        "name": "Pistacho",
+        "g": 80,
+        "ig": 15
+    },
+    {
+        "id": "e4242383-775f-4ba1-9b1f-e424a1370333",
+        "name": "Sésamo",
+        "g": 100,
+        "ig": null
+    },
+    {
+        "id": "4e052d44-c921-40ef-9e15-3833d0afed68",
+        "name": "Uva pasa",
+        "g": 15,
+        "ig": 65
+    }
+]

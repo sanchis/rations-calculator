@@ -1,0 +1,218 @@
+[
+    {
+        "id": "2fce7195-0a31-41cf-8625-86464d6deb86",
+        "name": "Acelga",
+        "g": 300,
+        "ig": 15
+    },
+    {
+        "id": "ef0609f7-51c6-43b5-926c-b4cc91a9b412",
+        "name": "Ajo",
+        "g": 40,
+        "ig": 30
+    },
+    {
+        "id": "ea9d2e3d-9e63-4cee-bf08-53563dbd0f02",
+        "name": "Alcachofa",
+        "g": 300,
+        "ig": 20
+    },
+    {
+        "id": "9eb8b166-e899-4d5d-bc6c-726eee087eda",
+        "name": "Alga",
+        "g": 200,
+        "ig": null
+    },
+    {
+        "id": "7b7ea029-5c3a-414b-8408-d06800ce3e36",
+        "name": "Apio",
+        "g": 500,
+        "ig": 15
+    },
+    {
+        "id": "4051beac-7feb-4541-b32c-f6c59f591f9c",
+        "name": "Apio-nabo",
+        "g": 500,
+        "ig": null
+    },
+    {
+        "id": "0a7e1a45-9ea9-4cb5-bb93-53c609a4c82d",
+        "name": "Berenjena",
+        "g": 300,
+        "ig": 20
+    },
+    {
+        "id": "0643b115-6820-40b2-93e9-d7ed34e60ec4",
+        "name": "",
+        "g": "",
+        "ig": null
+    },
+    {
+        "id": "5d5a9e24-a358-471d-9c58-fb1754893c49",
+        "name": "Borraja",
+        "g": 300,
+        "ig": 15
+    },
+    {
+        "id": "eb1b0c86-f8e1-4ec6-9356-2fa52455bef9",
+        "name": "Brócoli",
+        "g": 300,
+        "ig": 15
+    },
+    {
+        "id": "b74e397b-55d0-49b5-8556-6ab574d3a31f",
+        "name": "Calabacín",
+        "g": 300,
+        "ig": 15
+    },
+    {
+        "id": "15c4ebbb-2e5b-4e8f-a139-930d4c1ad542",
+        "name": "Calabaza",
+        "g": 200,
+        "ig": 75
+    },
+    {
+        "id": "10224523-4c2e-4a55-b1fa-ca011b250fa5",
+        "name": "Cardo",
+        "g": 300,
+        "ig": 15
+    },
+    {
+        "id": "8e87e76c-1d99-4f87-854e-6d09a83c5020",
+        "name": "Cebolla",
+        "g": 150,
+        "ig": 15
+    },
+    {
+        "id": "f1f16ff5-bca2-4d79-bf5c-fcde831b82e9",
+        "name": "Cebolla frita en aros",
+        "g": 100,
+        "ig": null
+    },
+    {
+        "id": "d5a3d637-6822-45af-b411-35f072efd4ee",
+        "name": "Col de Bruselas, Coliflor",
+        "g": 300,
+        "ig": 15
+    },
+    {
+        "id": "c1ecbfc7-2e7f-499a-a13e-596e207ce4e6",
+        "name": "Edamame",
+        "g": 100,
+        "ig": 35
+    },
+    {
+        "id": "de708bc7-09a2-46aa-9096-e924ab8697bd",
+        "name": "Endibia",
+        "g": 300,
+        "ig": 15
+    },
+    {
+        "id": "4b513fec-aa70-4867-9490-4dd51a5f3c50",
+        "name": "Espárrago blanco en conserva",
+        "g": 300,
+        "ig": 15
+    },
+    {
+        "id": "4e7f39b6-0741-47b4-8990-6759500c9804",
+        "name": "Espárrago verde",
+        "g": 500,
+        "ig": 15
+    },
+    {
+        "id": "dd029e6b-f054-4286-a3f6-a24a65f69574",
+        "name": "Judía verde",
+        "g": 250,
+        "ig": 30
+    },
+    {
+        "id": "990d6464-6c23-4da9-a325-55027624c748",
+        "name": "Lechuga",
+        "g": 300,
+        "ig": 15
+    },
+    {
+        "id": "f1088e9b-d6e7-424b-a188-1fe462248655",
+        "name": "Nabo",
+        "g": 300,
+        "ig": 30
+    },
+    {
+        "id": "ce0572d1-458a-4fa8-9e90-8681cd853e60",
+        "name": "Palmitos",
+        "g": 200,
+        "ig": 20
+    },
+    {
+        "id": "d5c75eb1-ac1e-4fbc-a9b8-1b9b4ae91db2",
+        "name": "Pepino",
+        "g": 300,
+        "ig": 15
+    },
+    {
+        "id": "6f1e1f81-1936-4cf6-8fdd-94f404a2e411",
+        "name": "Pimiento rojo/verde",
+        "g": 300,
+        "ig": 15
+    },
+    {
+        "id": "1a707105-c242-4116-afe5-8f49dd4a452a",
+        "name": "Puerro",
+        "g": 300,
+        "ig": 15
+    },
+    {
+        "id": "3e2f71f5-1f7f-4b53-bcd1-8ffc30d626ff",
+        "name": "Rábano",
+        "g": 300,
+        "ig": 15
+    },
+    {
+        "id": "1ffe4602-8180-4bbe-8831-b8e386d56c14",
+        "name": "Remolacha",
+        "g": 150,
+        "ig": 30
+    },
+    {
+        "id": "0a792107-0b6a-4afd-aa29-65dcbae385ad",
+        "name": "Repollo",
+        "g": 300,
+        "ig": 15
+    },
+    {
+        "id": "2392cb81-1d74-4df0-8a62-9d5478a8acaa",
+        "name": "Setas",
+        "g": 300,
+        "ig": 15
+    },
+    {
+        "id": "85817e72-dadf-4a0e-ae9c-6212211406f8",
+        "name": "Soja en brotes",
+        "g": 300,
+        "ig": 15
+    },
+    {
+        "id": "12d4851d-58a7-4d0a-9b02-6a0dcd030d0b",
+        "name": "Tomate",
+        "g": 300,
+        "ig": 30
+    },
+    {
+        "id": "6b89cef1-101c-4051-8379-f8f8699a0b8a",
+        "name": "Zanahoria",
+        "g": 150,
+        "ig": 30
+    },
+    {
+        "id": "d6c90f4f-0fe6-45e8-aaaf-c760859c4b62",
+        "name": "Zanahoria en conserva",
+        "g": 225,
+        "ig": null
+    },
+    {
+        "id": "03478426-5616-46f7-a45a-1470f58ebf5a",
+        "name": "Zanahoria hervida",
+        "g": 200,
+        "ig": 85
+    }
+]
