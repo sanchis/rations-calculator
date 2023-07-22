@@ -42,12 +42,6 @@
         "ig": 20
     },
     {
-        "id": "0643b115-6820-40b2-93e9-d7ed34e60ec4",
-        "name": "",
-        "g": "",
-        "ig": null
-    },
-    {
         "id": "5d5a9e24-a358-471d-9c58-fb1754893c49",
         "name": "Borraja",
         "g": 300,
@@ -202,12 +196,6 @@
         "name": "Zanahoria",
         "g": 150,
         "ig": 30
-    },
-    {
-        "id": "d6c90f4f-0fe6-45e8-aaaf-c760859c4b62",
-        "name": "Zanahoria en conserva",
-        "g": 225,
-        "ig": null
     },
     {
         "id": "03478426-5616-46f7-a45a-1470f58ebf5a",

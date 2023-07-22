@@ -1,0 +1,62 @@
+[
+    {
+        "id": "d46e987a-b75a-4a6a-8299-83d6f6533da8",
+        "name": "Ternera",
+        "ration": 50
+    },
+    {
+        "id": "b1102ac0-759d-4d31-9e0a-57dd58e6e79e",
+        "name": "Buey",
+        "ration": 50
+    },
+    {
+        "id": "0365040a-8f87-4e37-952b-890c8f20dc13",
+        "name": "Pollo",
+        "ration": 50
+    },
+    {
+        "id": "370225b8-7113-431d-ad26-75a29bef3a48",
+        "name": "Conejo",
+        "ration": 50
+    },
+    {
+        "id": "eb460fae-b283-42fb-9573-6e734e8545a6",
+        "name": "Cordero",
+        "ration": 50
+    },
+    {
+        "id": "47ae3c7a-7197-44ed-b06d-47857070ef36",
+        "name": "Cerdo",
+        "ration": 50
+    },
+    {
+        "id": "52ae2a91-ff2b-4a80-80d5-26a0010e2222",
+        "name": "Pescado azul",
+        "ration": 75
+    },
+    {
+        "id": "ad95010c-65e4-496a-96f7-b78d72122219",
+        "name": "Pescado blanco",
+        "ration": 75
+    },
+    {
+        "id": "54f10879-7407-4dba-8a4a-e352d36d3ec8",
+        "name": "Marisco",
+        "ration": 75
+    },
+    {
+        "id": "a4346c03-a1d5-44a2-b28e-653144a1e8c6",
+        "name": "Embutido",
+        "ration": 40
+    },
+    {
+        "id": "af3f1a3d-227a-44a2-9976-5dda856b7353",
+        "name": "Queso fresco/cremoso/seco",
+        "ration": 40
+    },
+    {
+        "id": "b1c7ad47-d533-4734-97b6-d64b4138d2dc",
+        "name": "Huevo 1 unidad por ración",
+        "ration": 50
+    }
+]

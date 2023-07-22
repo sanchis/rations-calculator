@@ -1,0 +1,12 @@
+[
+    {
+        "id": "125c318a-0cc3-49ac-9827-870b029b171c",
+        "name": "Leche",
+        "ration": 200
+    },
+    {
+        "id": "c35ea874-15ed-45ad-977f-b8f3ed65d6b8",
+        "name": "Yogures",
+        "ration": 400
+    }
+]

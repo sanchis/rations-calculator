@@ -1,0 +1,102 @@
+[
+    {
+        "id": "fd30ef59-6a9d-4a61-b3d0-21e6b4b663e3",
+        "name": "Escarola",
+        "ration": 300
+    },
+    {
+        "id": "341d2271-e3cf-4d0a-94c7-91911a6dfea4",
+        "name": "Lechuga",
+        "ration": 300
+    },
+    {
+        "id": "db249693-a6c2-4a47-ad6f-792ba9349ab4",
+        "name": "Endivias",
+        "ration": 300
+    },
+    {
+        "id": "8e5951fd-be55-4521-b9f3-c731a9373acb",
+        "name": "Acelgas",
+        "ration": 300
+    },
+    {
+        "id": "5f3d71db-f647-4bec-a990-fd27e4bf898f",
+        "name": "Espinacas",
+        "ration": 300
+    },
+    {
+        "id": "39f3ed7a-cde4-4ea9-9719-694044353db6",
+        "name": "Setas",
+        "ration": 300
+    },
+    {
+        "id": "b57cd62e-de6f-49a4-8677-cebaa1bcbd08",
+        "name": "Espárragos",
+        "ration": 300
+    },
+    {
+        "id": "b1a7f8bb-2c68-4ffc-97d2-3d4b2f34ca88",
+        "name": "Pepinos",
+        "ration": 300
+    },
+    {
+        "id": "f401080c-3014-443f-b80b-a2cb1d8d86e2",
+        "name": "Tomates",
+        "ration": 300
+    },
+    {
+        "id": "e917f6c9-21c7-4035-981f-c13be6bab285",
+        "name": "Pimientos",
+        "ration": 300
+    },
+    {
+        "id": "6c5bb04a-8e81-4fca-a6b1-0fda46f90acb",
+        "name": "Col",
+        "ration": 300
+    },
+    {
+        "id": "898c5459-bf40-446c-a949-aea0440509aa",
+        "name": "Berenjenas",
+        "ration": 300
+    },
+    {
+        "id": "38aa9313-6638-4500-bd8e-dce9bf3e36dc",
+        "name": "Coliflor",
+        "ration": 300
+    },
+    {
+        "id": "7a79ae25-8c1e-4965-a31a-3d5fcf695726",
+        "name": "Calabacin",
+        "ration": 300
+    },
+    {
+        "id": "9961208b-417d-4c3e-a2d8-152d580be6a8",
+        "name": "Judías verdes",
+        "ration": 300
+    },
+    {
+        "id": "b2b5656d-bb62-4040-986e-e37582fefab7",
+        "name": "Zanahorias",
+        "ration": 150
+    },
+    {
+        "id": "e517d9c9-d2c7-4dd4-8c2a-0ee84732a8f0",
+        "name": "Alcachofas",
+        "ration": 150
+    },
+    {
+        "id": "37d5955c-861e-4c30-a3a4-b2326b4e3741",
+        "name": "Cebolla",
+        "ration": 150
+    },
+    {
+        "id": "b3db189d-1c25-4558-885c-4d6e79a4e8d7",
+        "name": "Remolacha",
+        "ration": 150
+    },
+    {
+        "id": "1b8b557a-d934-49da-a45d-d99c8ac1bae3",
+        "name": "Coles de bruselas",
+        "ration": 150
+    }
+]

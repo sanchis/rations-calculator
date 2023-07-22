@@ -1,0 +1,42 @@
+[
+    {
+        "id": "18cc2aaf-f430-4848-8d25-b6250743e574",
+        "name": "Aceite de oliva",
+        "ration": 15
+    },
+    {
+        "id": "d93d516a-c65c-48a3-9d8d-ae8d1d82cd3e",
+        "name": "Mayonesa",
+        "ration": 15
+    },
+    {
+        "id": "0e0e74e8-efec-4d91-97ff-97acc2fdf5a5",
+        "name": "Mantequilla",
+        "ration": 10
+    },
+    {
+        "id": "e3f4d461-9808-4bf2-bf1d-b858bcdc2b2f",
+        "name": "Margarina",
+        "ration": 10
+    },
+    {
+        "id": "6c9b4a1a-d0ed-4c3a-b23e-522632c3b370",
+        "name": "Aceitunas",
+        "ration": 40
+    },
+    {
+        "id": "30432569-05dc-469a-ae5d-7765a0634935",
+        "name": "Nata",
+        "ration": 30
+    },
+    {
+        "id": "e2f8fa1d-a2e9-49b8-adf3-c2b579f4afe1",
+        "name": "Crema de leche",
+        "ration": 30
+    },
+    {
+        "id": "b87d8917-1dd8-45d1-aaea-17b852002789",
+        "name": "Frutos secos",
+        "ration": 15
+    }
+]

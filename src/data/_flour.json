@@ -1,0 +1,67 @@
+[
+    {
+        "id": "fd6b73be-a45c-45de-a143-60096a316a41",
+        "name": "Guisantes",
+        "ration": 60
+    },
+    {
+        "id": "00431b97-54b4-4d97-928f-6bc8a2caf0f0",
+        "name": "Habas",
+        "ration": 60
+    },
+    {
+        "id": "b0e5c584-14d0-4094-a477-b4b20ba02b4a",
+        "name": "Patatas",
+        "ration": 50
+    },
+    {
+        "id": "6b324445-881d-4099-8ac0-3a88fe3caa56",
+        "name": "Boniatos",
+        "ration": 50
+    },
+    {
+        "id": "1ec97da7-15bb-48c3-b818-dddbeefce665",
+        "name": "Legumbres",
+        "ration": 20
+    },
+    {
+        "id": "c480cda5-fee9-44e9-a428-a91ecb6921cc",
+        "name": "Pan",
+        "ration": 20
+    },
+    {
+        "id": "fae324cf-8076-423b-bfa8-84140f212674",
+        "name": "Castañas",
+        "ration": 20
+    },
+    {
+        "id": "1bb9993c-137f-4697-b166-79fd08d901f2",
+        "name": "Tostadas",
+        "ration": 15
+    },
+    {
+        "id": "cb6d4770-389b-4896-9cab-8d43acfe5de4",
+        "name": "Cereales",
+        "ration": 15
+    },
+    {
+        "id": "18c8865e-e831-4f80-ab3d-46f02e0fdc11",
+        "name": "Arroz",
+        "ration": 15
+    },
+    {
+        "id": "61f677c5-1183-4d84-b35e-8d05abf20592",
+        "name": "Sémola",
+        "ration": 15
+    },
+    {
+        "id": "c254c3fa-2c33-4f6f-a397-98185531d15f",
+        "name": "Harina",
+        "ration": 15
+    },
+    {
+        "id": "62356c9b-a248-417b-b4c6-70fdb4b158a6",
+        "name": "Pasta",
+        "ration": 15
+    }
+]

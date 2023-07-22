@@ -1,0 +1,97 @@
+[
+    {
+        "id": "c98b496e-0e3e-4c1b-874a-b7d861e9e501",
+        "name": "Melón",
+        "ration": 150
+    },
+    {
+        "id": "53662a2f-72b5-4d49-a8dc-d0d57ce2469f",
+        "name": "Sandia",
+        "ration": 150
+    },
+    {
+        "id": "09a90b3a-3291-4bbf-8d3c-81de507a95bc",
+        "name": "Fresas",
+        "ration": 150
+    },
+    {
+        "id": "131ded7a-c93e-43e0-ad2c-31382c309d8c",
+        "name": "Pomelo",
+        "ration": 150
+    },
+    {
+        "id": "2940f3d6-63a0-4630-80d0-4bbdbf379655",
+        "name": "Albaricoque",
+        "ration": 100
+    },
+    {
+        "id": "161e67c8-bbd4-43ec-b32f-9c3cd301c29d",
+        "name": "Naranja",
+        "ration": 100
+    },
+    {
+        "id": "371dafa3-015a-44e6-9fbe-7a6b75424d3f",
+        "name": "Pera",
+        "ration": 100
+    },
+    {
+        "id": "4fc52b0b-1d4d-4995-942a-1538bb64860c",
+        "name": "Mandarina",
+        "ration": 100
+    },
+    {
+        "id": "fcaea5a8-f11d-4bdb-b4d9-d107046c7e7e",
+        "name": "Limón",
+        "ration": 100
+    },
+    {
+        "id": "72ede038-ed60-4d88-8f89-3765ddc26f92",
+        "name": "Ciruelas",
+        "ration": 100
+    },
+    {
+        "id": "ac62b816-fedb-4b8d-8285-14874acc0462",
+        "name": "Piña",
+        "ration": 100
+    },
+    {
+        "id": "00574a6d-d876-4951-b78c-552f0a6012f0",
+        "name": "Kiwi",
+        "ration": 100
+    },
+    {
+        "id": "bff5c44d-f45c-4d56-9044-8cbf9def7963",
+        "name": "Manzana",
+        "ration": 100
+    },
+    {
+        "id": "35823a1a-bf7b-47f8-bbc1-52ee7f9084a7",
+        "name": "Plátano",
+        "ration": 50
+    },
+    {
+        "id": "ec49527c-1c7d-4a66-a246-a0059d950f31",
+        "name": "Uva",
+        "ration": 50
+    },
+    {
+        "id": "0f7b2eb7-7c4b-43ab-ac14-21ae7761b1ca",
+        "name": "Cerezas",
+        "ration": 50
+    },
+    {
+        "id": "5ec0a95d-bc5d-4bb4-8737-7577d2a11f06",
+        "name": "Higos",
+        "ration": 50
+    },
+    {
+        "id": "7f620933-703e-45af-9274-6a37a6955b52",
+        "name": "Chirimoya",
+        "ration": 50
+    },
+    {
+        "id": "2ca9fcb1-7362-49e3-a1cc-d232505e24bf",
+        "name": "Nísperos",
+        "ration": 50
+    }
+]
