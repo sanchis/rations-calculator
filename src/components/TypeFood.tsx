@@ -4,14 +4,14 @@ import { BiPlus, BiMinus, BiError } from 'react-icons/bi'
 
 interface Props {
   elements: FoodCategory[]
+  ration: number
 }
 
 interface FoodCategorySelected extends FoodCategory {
   quantity: number
 }
-export const TypeFood = ({ elements }: Props): ReactElement => {
+export const TypeFood = ({ elements, ration }: Props): ReactElement => {
   const [categorySelected, setElements] = useState<FoodCategorySelected[]>([])
-  const [ration, setRation] = useState(0)
 
   const addElement = (id: string): void => {
     const elementFounded = elements.find(element => element.id === id)
@@ -44,13 +44,11 @@ export const TypeFood = ({ elements }: Props): ReactElement => {
 
   return (
     <div className='flex flex-col gap-5 p-5 border border-blue-400 border-dashed rounded'>
-      {isExceededFood && <div className='p-5 my-2 text-yellow-600 bg-yellow-100 rounded'><BiError className='block m-auto text-3xl' />Cuidado! has excedido el numero de alimentos por Ración permitidas, reduciendo la cantidad de los alimentos o sube la cantidad de la ración </div>}
-      <div className='flex flex-row items-center justify-center space-x-2'>
-        <label htmlFor='ration'>
-          Ración:
-        </label>
-        <input type='number' name='ration' value={ration} className='w-20' onChange={(e) => setRation(Number(e.target.value))} />
-      </div>
+      {isExceededFood &&
+        <div className='p-5 my-1 text-yellow-600 bg-yellow-100 rounded'>
+          <BiError className='block m-auto text-3xl' />
+          Cuidado! has excedido el numero de alimentos por ración permitidas, reduciendo la cantidad de los alimentos o sube la cantidad de la ración
+        </div>}
 
       {
       categorySelected.map(element =>

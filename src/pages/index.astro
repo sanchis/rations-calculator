@@ -1,32 +1,15 @@
 ---
 import { dairy, fat, flour, fruit, protein, vegetables } from "../data";
-import Card from "../components/Card.astro";
+import { Ration } from "../components/Ration";
 import Layout from "../layouts/Layout.astro";
-
-const columnStyles = " w-full text-center p-5";
-const headerColumnStyles = "text-2xl font-bold";
-const subColumnsStyles = "flex flex-col gap-y-5";
-const categories = ["Desayuno", "Almuerzo", "Comida", "Merienda", "Cena"];
+import { Equivalence } from "../components/Equivalence";
+import { Header } from "../components/Header";
+import { FoodGrid } from "../components/FoodGrid";
 ---
 
 <Layout title="Index">
-  <div
-    class="flex flex-row justify-between m-5 bg-white divide-x rounded shadow-lg divide-slate-100"
-  >
-    {
-      categories.map((cat) => (
-        <div class={columnStyles}>
-          <h1 class={headerColumnStyles}>{cat}</h1>
-          <div class={subColumnsStyles}>
-            <Card title="Lacteos" elements={dairy} />
-            <Card title="Frutas" elements={fruit} />
-            <Card title="Verduras" elements={vegetables} />
-            <Card title="Harinas" elements={flour} />
-            <Card title="Proteinas" elements={protein} />
-            <Card title="Grasas" elements={fat} />
-          </div>
-        </div>
-      ))
-    }
+  <div class="flex flex-col gap-y-4">
+    <FoodGrid client:load />
+    <Equivalence />
   </div>
 </Layout>
