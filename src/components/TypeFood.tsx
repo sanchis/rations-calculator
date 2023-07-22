@@ -1,7 +1,6 @@
 import { ReactElement, useMemo, useState } from 'react'
 import type { FoodCategory } from '../data'
-import { BiPlus, BiMinus, BiError } from 'react-icons/bi'
-
+import { BsExclamationTriangle, BsPlus, BsDash } from 'react-icons/bs/index'
 interface Props {
   elements: FoodCategory[]
   ration: number
@@ -46,7 +45,7 @@ export const TypeFood = ({ elements, ration }: Props): ReactElement => {
     <div className='flex flex-col gap-5 p-5 border border-blue-400 border-dashed rounded'>
       {isExceededFood &&
         <div className='p-5 my-1 text-yellow-600 bg-yellow-100 rounded'>
-          <BiError className='block m-auto text-3xl' />
+          <BsExclamationTriangle className='block m-auto text-3xl' />
           Cuidado! has excedido el numero de alimentos por ración permitidas, reduciendo la cantidad de los alimentos o sube la cantidad de la ración
         </div>}
 
@@ -56,8 +55,12 @@ export const TypeFood = ({ elements, ration }: Props): ReactElement => {
           <p>{element.name}</p>
           <p>{element.ration * (element.quantity)} g/ml</p>
           <div className='flex flex-row items-center justify-center gap-1'>
-            <button className='p-2 text-3xl text-white bg-green-400 rounded' onClick={() => updateQuantity(element, element.quantity + 0.5)}><BiPlus /></button><br />
-            <button className='p-2 text-3xl text-white bg-green-400 rounded' onClick={() => updateQuantity(element, element.quantity - 0.5)}><BiMinus /></button>
+            <button className='p-2 text-3xl text-white bg-green-400 rounded' onClick={() => updateQuantity(element, element.quantity + 0.5)}>
+              <BsPlus />
+            </button>
+            <button className='p-2 text-3xl text-white bg-green-400 rounded' onClick={() => updateQuantity(element, element.quantity - 0.5)}>
+              <BsDash />
+            </button>
           </div>
         </div>
       )
