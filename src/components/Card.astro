@@ -11,6 +11,6 @@ const { title, elements } = Astro.props;
 ---
 
 <div>
-  <label>{title}</label>
+  <h2 class="mb-1 text-xl">{title}</h2>
   <TypeFood client:only elements={elements} />
 </div>
