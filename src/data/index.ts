@@ -13,17 +13,17 @@ import fruit from './_fruit.json'
 import protein from './_protein.json'
 import vegetables from './_vegetables.json'
 export {
-    fat,
-    dairy,
-    flour,
-    fruit,
-    protein,
-    vegetables
+  fat,
+  dairy,
+  flour,
+  fruit,
+  protein,
+  vegetables
 }
 export interface FoodCategory {
-    id: string,
-    name: string
-    ration: number
+  id: string
+  name: string
+  ration: number
 }
 
 // export enum CategoryType {
