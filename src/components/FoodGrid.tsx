@@ -4,11 +4,11 @@ import { Ration } from '../components/Ration'
 import { Header } from './Header'
 export const FoodGrid = (): ReactElement => {
   const columnStyles = ' w-full text-center p-5'
-  const subColumnsStyles = 'flex flex-col gap-y-2'
+  const subColumnsStyles = 'flex flex-col gap-y-2 '
   const categories = ['Desayuno', 'Almuerzo', 'Comida', 'Merienda', 'Cena']
   return (
     <div
-      className='flex flex-row justify-between bg-white divide-x rounded shadow-lg divide-slate-100'
+      className='flex flex-col justify-between bg-white divide-x rounded shadow-lg lg:flex-row divide-slate-100'
     >
       {
       categories.map((cat) => (
